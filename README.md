@@ -6,7 +6,7 @@
 | *Nombre Completo*| *Numero de Control* |
 |-----------------|-------------|
 | Chavero Martínez Noé | 1223100837 |
-| Gonzáles Avalos César Fernando | 1223100745 |
+| González Avalos César Fernando | 1223100745 |
 ---
 ## Examenes de NetaCad Python 
 
@@ -35,6 +35,11 @@
 ![image](https://github.com/user-attachments/assets/c0617ab7-9787-43e7-9bf7-f2c235e0217d)
 
 ## Gonzáles Avalos César Fernando
+# Videos del Funcionamiento
+| *Link* |
+|-----------------|
+| https://drive.google.com/drive/folders/1p-VCIfq_45sY2RFymZ0j9ouVtoSMPEe8?usp=sharing |
+
 ![Imagen de WhatsApp 2025-03-16 a las 18 08 06_e1049cfe](https://github.com/user-attachments/assets/1e8263d4-f952-4b3a-903a-f6bc9f87dce1)
 ![Imagen de WhatsApp 2025-03-16 a las 18 08 07_5769e600](https://github.com/user-attachments/assets/9d35d2e0-485a-41bf-addc-046bd1cc698d)
 
