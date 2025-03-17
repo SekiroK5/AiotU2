@@ -8,31 +8,28 @@
 | Chavero Martínez Noé | 1223100837 |
 | González Avalos César Fernando | 1223100745 |
 ---
-## Examenes de NetaCad Python 
+## Examenes de NetaCad Java 
 
 | *Nombre Completo*| *Link De Drive* |
 |-----------------|-------------|
-| Chavero Martínez Noé | https://drive.google.com/drive/folders/1-LS4K1DTe4k3HQjsMrERyrKQqe7LVq3s?usp=drive_link |
-| González Avalos César Fernando | https://drive.google.com/drive/folders/11cgiEMXy2JCQpTHwhGHO5SAokUKZsA_V?usp=sharing |
+| Chavero Martínez Noé | https://drive.google.com/drive/folders/1n_sEKx7hZWxR6g3PFYZjZ4YQf73FfA5r?usp=drive_link |
+| González Avalos César Fernando | https://drive.google.com/drive/folders/17k4jGwxNmlvHYj73x6jZMTZkGvcgYa8z?usp=drive_link |
 
-## Videos de las pruebas
+## Videos de los sensores y actuadores
 
 | *Nombre Completo*| *Link De Drive* |
 |-----------------|-------------|
-| Chavero Martínez Noé | https://drive.google.com/drive/folders/1Uc3LZ3TD_ngKmMHYyozbrpbPFnYiEm_O?usp=drive_link |
-| González Avalos César Fernando | https://drive.google.com/drive/folders/1QRAF-TKv-0cvmg6bu_dlgfsD-XM966PZ?usp=drive_link |
-| Videos en Pareja | https://drive.google.com/drive/folders/1YsxPIQlcZQ0XF7bLy8GrkzvuH6S_bV4U?usp=drive_link |
+| Chavero Martínez Noé | https://drive.google.com/drive/folders/10LeUlT2R97Bu0VkUGmMCXeduIc6hicku?usp=drive_link |
+| González Avalos César Fernando | https://drive.google.com/drive/folders/12_wlrZIScFmsFvnakPPstHLy9Z_8bw9u?usp=drive_link |
 
-## Diagrama de conexiones
-| *Nombre del Programa*| *Link De wokwi* |
-|-----------------|-------------|
-| Actividad 1 | https://wokwi.com/projects/421996227339920385 |
-| Actividad 2 | https://wokwi.com/projects/421996129065272321 |
+## Diagramas de conexiones
+| https://drive.google.com/drive/folders/1Aa2m48K_AE8GO--ZcTu9Y5xLWPmaTyxt?usp=drive_link |
+
 
 ---
 ## Ejercicios de Soldadura
 ## Chavero Martínez Noé
-![image](https://github.com/user-attachments/assets/c0617ab7-9787-43e7-9bf7-f2c235e0217d)
+
 
 ## Gonzáles Avalos César Fernando
 # Videos del Funcionamiento
