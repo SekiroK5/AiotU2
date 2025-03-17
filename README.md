@@ -8,12 +8,12 @@
 | Chavero Martínez Noé | 1223100837 |
 | Gonzáles Avalos César Fernando | 1223100745 |
 ---
-## Examenes de NetaCad Python y Ejercicios de Soldadura
+## Examenes de NetaCad Python 
 
 | *Nombre Completo*| *Link De Drive* |
 |-----------------|-------------|
 | Chavero Martínez Noé | https://drive.google.com/drive/folders/1-LS4K1DTe4k3HQjsMrERyrKQqe7LVq3s?usp=drive_link |
-| González Avalos César Fernando | https://drive.google.com/drive/folders/1s78uq_-YLPBw-m3z57OdaTDmBwJqdkcX?usp=drive_link |
+| González Avalos César Fernando | https://drive.google.com/drive/folders/11cgiEMXy2JCQpTHwhGHO5SAokUKZsA_V?usp=sharing |
 
 ## Videos de las pruebas
 
