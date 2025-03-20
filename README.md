@@ -23,6 +23,8 @@
 | González Avalos César Fernando | https://drive.google.com/drive/folders/12_wlrZIScFmsFvnakPPstHLy9Z_8bw9u?usp=drive_link |
 
 ## Diagramas de conexiones
+Diagrmas sobre la conexion de los sensores y actuadores, 20 fueron realizados por Cesar y 20 por Noe, muestran como es la conexion y como hacen
+la comunicacion
 | *Nombre Completo*| *Imagen* |
 |-----------------|-------------|
 | KY-001 | ![image](https://github.com/user-attachments/assets/a08aaa76-7095-465f-938f-60ee57ef63e0) |
